@@ -1,1 +1,1 @@
-# Denoising-GAN-Emphysema
+# IQA-denoising
